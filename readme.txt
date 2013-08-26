@@ -1,5 +1,5 @@
 === Agreement ===
-Contributors: Pranav
+Contributors: Pranavpathakjaora
 Tags: licence agreement, popup before download,attach, attachments,
 Requires at least: 3.5.2
 Tested up to: 3.6
@@ -11,7 +11,7 @@ The Agreement plugin helps to create pop-up licence agreement or term to use bef
 
 == Description ==
 The Agreement plugin helps to create pop-up licence agreement or term to use before download any thing from post or page. It will give freedom to change text in pop-up. After activation of plugin in post/page
-add file from "Add Media", then change editor type from **Visual** to **text** and give id to that media file. Id will be like this **id="agreement"**. Your link will be '<a id="agreement" href="http://yourdmain.com/home/wp2/wp-content/uploads/2013/08/pdf.pdf">pdf</a>', Now save post/page.
+add file from "Add Media", then change editor type from **Visual** to **text** and give id to that media file. Id will be like this **id="agreement"**. Your link will be like 'id="agreement" href="http://yourdmain.com/home/wp2/wp-content/uploads/2013/08/pdf.pdf"', Now save post/page.
 This plugin works for single item in a page.
 
 = Requirements =
@@ -37,6 +37,10 @@ No changelog right now.
 == Frequently Asked Questions ==
 
 1.Is it works for custom content type?
+
 yes it works.
+
+
 2. From where I can change text of pop-up ? 
+
 After activation there is a sub menu in Settings called Agreement. Click on this and there is a option to change license agreement text called "Enter your License Agreement setting text below:".
