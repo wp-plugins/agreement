@@ -15,7 +15,6 @@ The Agreement plugin helps to create pop-up licence agreement or term to use bef
 add file from "Add Media", then change editor type from **Visual** to **text** and give id to that media file. Id will be like this **id="agreement"**. Your link will be like 'id="agreement" href="http://yourdmain.com/home/wp2/wp-content/uploads/2013/08/pdf.pdf"', Now save post/page.
 This plugin works for single item in a page.
 
-
 After activation there is a sub menu in Settings called Agreement. Click on this and there is a option to change license agreement text called "Enter your License Agreement setting text below:". You can also insert html tag like **ul**,**li**, **br**, **hr** from agreement option in settings. 
 
 = Requirements =
