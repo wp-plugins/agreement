@@ -2,7 +2,7 @@
 Contributors: pranavpathakjaora
 Tags: licence agreement, popup before download,attach, attachments,terms and condition, t&c
 Requires at least: 3.5.2
-Tested up to: 3.6
+Tested up to: 3.7
 Stable tag: 1.0
 Version: 1.0
 License: GPLv2 or later
