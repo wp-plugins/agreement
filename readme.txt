@@ -2,7 +2,7 @@
 Contributors: pranavpathakjaora
 Tags: licence agreement, popup before download,attach, attachments,terms and condition, t&c
 Requires at least: 3.5.2
-Tested up to: 3.7
+Tested up to: 3.8
 Stable tag: 1.0
 Version: 1.0
 License: GPLv2 or later
@@ -39,11 +39,11 @@ No changelog right now.
 
 == Frequently Asked Questions ==
 
-1.Is it works for custom content type?
+Is it works for custom content type?
 
-yes it works.
+Yes it works.
 
 
-2. From where I can change text of pop-up ? 
+From where I can change text of pop-up ? 
 
-After activation there is a sub menu in Settings called Agreement. Click on this and there is a option to change license agreement text called "Enter your License Agreement setting text below:".
+After activation,there is a sub menu in Settings called Agreement. Click on this. New page will open,there is an option to change license agreement text called "Enter your License Agreement setting text below:".
