@@ -11,9 +11,9 @@ The Agreement plugin helps to create pop-up licence agreement or term to use bef
 
 == Description ==
 
-The Agreement plugin helps to create pop-up licence agreement or term to use before download any thing from post or page. It will give freedom to change text in pop-up. After activation of plugin in post/page
-add file from "Add Media", then change editor type from **Visual** to **text** and give id to that media file. Id will be like this **id="agreement"**. Your link will be like 'id="agreement" href="http://yourdmain.com/home/wp2/wp-content/uploads/2013/08/pdf.pdf"', Now save post/page.
-This plugin works for single item in a page.
+The Agreement plugin helps to create pop-up licence agreement or term to use before download any thing from post or page. It will give freedom to change text in pop-up. After activation of plugin in post/page add file from "Add Media", then change editor type from **Visual** to **text** and give id to that media file. Id will be like this **id="agreement"**. Your link will be like 'id="agreement" href="http://yourdmain.com/wp-content/uploads/2013/08/pdf.pdf"', Now save post/page.
+
+**This plugin works for multiple item in single page.**
 
 After activation there is a sub menu in Settings called Agreement. Click on this and there is a option to change license agreement text called "Enter your License Agreement setting text below:". You can also insert html tag like **ul**,**li**, **br**, **hr** from agreement option in settings. 
 
@@ -34,7 +34,7 @@ This plugin uses the standard installation procedure: install the plugin's folde
 
 == Changelog ==
 
-No changelog right now.
+Now it works for multiple item in single page.
 
 
 == Frequently Asked Questions ==
@@ -47,3 +47,5 @@ Yes it works.
 From where I can change text of pop-up ? 
 
 After activation,there is a sub menu in Settings called Agreement. Click on this. New page will open,there is an option to change license agreement text called "Enter your License Agreement setting text below:".
+
+For more details http://www.indiatale.com/agreement/
