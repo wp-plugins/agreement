@@ -3,8 +3,8 @@ Contributors: pranavpathakjaora
 Tags: licence agreement, popup before download,attach, attachments,terms and condition, t&c
 Requires at least: 3.5.2
 Tested up to: 3.8
-Stable tag: 1.0
-Version: 1.0
+Stable tag: 1.1
+Version: 1.1
 License: GPLv2 or later
 
 The Agreement plugin helps to create pop-up licence agreement or term to use before download any thing from post or page.
