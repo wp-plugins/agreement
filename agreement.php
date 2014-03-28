@@ -3,7 +3,7 @@
 Plugin URI: http://www.indiatale.com/agreement/
 Description: The Agreement plugin helps to create pop-up licence agreement or term to use before download any thing from post or page.
 Author: Pranav Pathak
-Version: 1.0
+Version: 1.1
 Author URI: http://www.indiatale.com/agreement/
 */
 
