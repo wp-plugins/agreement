@@ -31,6 +31,7 @@ This plugin uses the standard installation procedure: install the plugin's folde
 
 1. Add id in media file link.
 2. Change pop-up text in admin panel.
+3. How it looks like in front end. UI may be differ as per your template.
 
 == Changelog ==
 
